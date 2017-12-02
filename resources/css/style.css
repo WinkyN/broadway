@@ -22,3 +22,9 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.links {
+  background-image: url(../images/the-flatiron-building.png);
+  font-size: 18px;
+  color: white;
+}
