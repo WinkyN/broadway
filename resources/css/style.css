@@ -4,9 +4,9 @@ h1, h2, h3, h4, p {
 }
 
 h1 {
-font-size: 70px;
-font-weight: bold;
-color: white;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
 }
 
 h2 {
@@ -23,15 +23,29 @@ p {
   font-size: 14px;
 }
 
+#headerlinks {
+  text-align: center;
+  font-style: 18px;
+  color: white;
+}
+
 .newyork {
   background-image: url(../images/the-flatiron-building.png);
+  background-repeat: no-repeat;
   font-size: 23px;
   font-weight: bold;
   color: white
 }
 
-.links {
+.header {
   background-image: url(../images/the-flatiron-building.png);
-  font-size: 18px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.copyright {
+  text-align: left;
+  font-size: 11px;
   color: white;
+  background-color: dimgray;
 }
