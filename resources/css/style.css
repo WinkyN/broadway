@@ -45,9 +45,13 @@ p {
   background-position: center;
 }
 
-.copyright {
-  text-align: left;
-  font-size: 11px;
+.footer {
   color: white;
   background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+  text-align: left;
+  color: white;
 }
