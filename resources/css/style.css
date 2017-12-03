@@ -23,15 +23,16 @@ p {
   font-size: 14px;
 }
 
-#headerlinks {
+.headerlinks {
   text-align: center;
-  font-style: 18px;
-  color: white;
+  font-size: 18px;
 }
 
 .newyork {
   background-image: url(../images/the-flatiron-building.png);
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   font-size: 23px;
   font-weight: bold;
   color: white
@@ -41,6 +42,7 @@ p {
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .copyright {
