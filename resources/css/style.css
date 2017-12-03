@@ -23,6 +23,13 @@ p {
   font-size: 14px;
 }
 
+.newyork {
+  background-image: url(../images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white
+}
+
 .links {
   background-image: url(../images/the-flatiron-building.png);
   font-size: 18px;
